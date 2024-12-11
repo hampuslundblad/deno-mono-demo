@@ -1,0 +1,6 @@
+{
+  "workspace": ["./add", "./subtract", "./vite-test"],
+  "imports": {
+    "chalk": "npm:chalk@5"
+  }
+}
